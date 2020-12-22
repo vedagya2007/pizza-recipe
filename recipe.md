@@ -1,21 +1,3 @@
-# My recipe
-It is a recipe of pizza 
-
-
-the Ingredients used to make pizza:
-
-Yeast
-sugar
-Flour
-olive oil
-salt
-vegetables
-cheese
-corn meal
-pizza sauce
-
-
-
 recipe to make a pizza :
 
 Step 1: Pour luke warm water to a warm bowl
@@ -47,7 +29,6 @@ Step 13:  Lastly layer cheese. Then veggies of your choice.
 Step 14:  Bake it for 8 to 10 minutes or until the cheese turns golden.
 
 Step 15: Slice and serve
-
 
 
 
